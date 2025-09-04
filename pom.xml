@@ -23,6 +23,7 @@
     </developers>
     <modules>
         <module>week1</module>
+        <module>spring-boot-quickstart</module>
     </modules>
     <scm>
         <connection/>
