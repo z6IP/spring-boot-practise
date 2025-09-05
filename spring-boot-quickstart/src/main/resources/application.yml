@@ -11,5 +11,15 @@ my:
     author: zhz
 
     feature:
-      helloSwitch: true
+      helloSwitch: false
       closeMsg: "该接口正在维护,10分钟后再来吧!"
+
+zhz:
+  sms:
+    ccp:
+      serverIp: app.cloopen.com
+      port: 8883
+      accountSid: 2c94811c9860a9c4019917b778cd1d9c
+      accountToken: 0da43c36bb084b3e8f58c9b11678609e
+      appId: 2c94811c9860a9c4019917b77a291da3
+      templateId: 1
