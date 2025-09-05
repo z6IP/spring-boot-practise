@@ -11,6 +11,17 @@
 
     <artifactId>spring-boot-quickstart</artifactId>
 
+    <dependencies>
+
+        <!-- 容联云短信 -->
+        <dependency>
+            <groupId>com.cloopen</groupId>
+            <artifactId>java-sms-sdk</artifactId>
+            <version>1.0.4</version>
+        </dependency>
+
+    </dependencies>
+
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
