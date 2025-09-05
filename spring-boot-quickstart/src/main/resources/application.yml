@@ -1,4 +1,11 @@
 server:
   port: 8888
-  servlet:
-    context-path: /zhz
+spring:
+  application:
+    name: quickstart
+
+my:
+  mood:
+    today: "星期五"
+    content: "今天心情不错"
+    author: zhz
