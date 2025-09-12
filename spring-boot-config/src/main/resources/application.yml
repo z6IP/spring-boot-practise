@@ -1,0 +1,14 @@
+server:
+  port: 8888
+
+team:
+  name: Web2班
+  leader: zhz
+  phone: 18061657605
+  age: 6
+
+spring:
+  servlet:
+    multipart:
+      max-file-size: 10MB # 单个上传文件大小限定为10M，默认值为1M
+      max-request-size: 100MB # 单次上传文件大小限定为100M，默认值为10M
