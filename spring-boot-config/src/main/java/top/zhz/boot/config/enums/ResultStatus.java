@@ -1,14 +1,19 @@
 package top.zhz.boot.config.enums;
 
+import lombok.Getter;
+
+/**
+ * @author zhz
+ */
+
+@Getter
 public enum ResultStatus {
     SUCCESS("成功"),
     FAIL("失败");
 
     private String label;
-    public String getLabel() {
-        return label;
-    }
-    private ResultStatus(String label) {
+
+    ResultStatus(String label) {
         this.label = label;
     }
 }
