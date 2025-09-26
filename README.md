@@ -1,6 +1,6 @@
->本仓库是 Spring Boot 主要知识点的示例代码
-
-模块说明：
-- spring-boot-quickstart: 起步模块
-- spring-boot-data: 数据模块
-
+## spring-boot-quickstart 快速开始模块
+## spring-boot-config 配置模块
+## spring-boot mp MyBatis Plus 模块
+## spring-boot-exception 统一异常处理模块
+## spring-boot-redis Redis 集成模块
+## spring-boot-filter- Redis 集成模块
