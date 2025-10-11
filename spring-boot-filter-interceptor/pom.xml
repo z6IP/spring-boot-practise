@@ -12,10 +12,6 @@
     <name>spring-boot-filter-interceptor</name>
     <description>spring-boot-filter-interceptor</description>
 
-    <properties>
-        <java.version>17</java.version>
-    </properties>
-
 
     <dependencies>
         <!-- 核心Web依赖（含SpringMVC和Servlet 5.0） -->
